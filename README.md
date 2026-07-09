@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/grok-clone → Demo sect
 Most AI scripts stop at "send a prompt." This platform ships with the features that actually run an AI *business*:
 
 - **Multi-Model Routing** — auto-routes each query to the best model (cost, latency, capability) — same pattern Microsoft Copilot uses
-- **Built-In Web Search** — 
-- **Retrieval-Augmented Generation** — real-time web search integrated — answers grounded in current sources, not just training data
-- **Streaming + Function Calling** — fine-tuning pipeline with eval suite, dataset versioning, and rollout controls — same MLOps Anthropic, OpenAI ship
-- **Fine-Tuning + Eval** — streaming outputs with first-class function calling and tool use — what production AI looks like
+- **Built-In Web Search** — real-time web search integrated — answers grounded in current sources, not just training data
+- **Retrieval-Augmented Generation** — drag-drop your PDFs/docs → ask questions → cited answers — same RAG pattern enterprise chatbots use
+- **Streaming + Function Calling** — streaming outputs with first-class function calling and tool use — what production AI looks like
+- **Fine-Tuning + Eval** — fine-tuning pipeline with eval suite, dataset versioning, and rollout controls — same MLOps Anthropic, OpenAI ship
 
 ## 📦 Core Features
 
